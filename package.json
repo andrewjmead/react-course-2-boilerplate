@@ -22,6 +22,7 @@
     "babel-preset-env": "1.5.2",
     "babel-preset-react": "6.24.1",
     "css-loader": "0.28.4",
+    "enzyme-adapter-react-16": "^1.0.4",
     "express": "4.15.4",
     "extract-text-webpack-plugin": "3.0.0",
     "firebase": "4.2.0",
@@ -30,10 +31,11 @@
     "node-sass": "4.5.3",
     "normalize.css": "7.0.0",
     "numeral": "2.0.6",
-    "react": "15.6.1",
+    "raf": "^3.4.0",
+    "react": "16.1.0",
     "react-addons-shallow-compare": "15.6.0",
     "react-dates": "12.3.0",
-    "react-dom": "15.6.1",
+    "react-dom": "16.1.0",
     "react-modal": "2.2.2",
     "react-redux": "5.0.5",
     "react-router-dom": "4.1.2",
@@ -49,10 +51,10 @@
   "devDependencies": {
     "cross-env": "5.0.5",
     "dotenv": "4.0.0",
-    "enzyme": "2.9.1",
-    "enzyme-to-json": "1.5.1",
+    "enzyme": "3.1.1",
+    "enzyme-to-json": "3.2.2",
     "jest": "20.0.4",
-    "react-test-renderer": "15.6.1",
+    "react-test-renderer": "16.1.0",
     "webpack-dev-server": "2.5.1"
   }
 }
