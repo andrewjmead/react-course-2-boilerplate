@@ -28,7 +28,7 @@
     "firebase": "4.2.0",
     "history": "4.7.2",
     "moment": "2.18.1",
-    "node-sass": "4.5.3",
+    "node-sass": "4.13.1",
     "normalize.css": "7.0.0",
     "numeral": "2.0.6",
     "raf": "^3.4.0",
